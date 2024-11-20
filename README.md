@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saada Ahmed Yacine</h1>
 <h3 align="center">A passionate kotline developer from Algeria</h3>
 
-- 🌱 I’m currently learning **courses**
+- 🌱 I’m currently learning **kotline**
 
 - 💬 Ask me about **kotline**
 
